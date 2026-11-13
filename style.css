@@ -3,7 +3,7 @@ body {
   font-family: sans-serif;
 }
 
-/* The Pixi canvas sits behind the text */
+/* Pixi canvasen som ligger bakom texten*/
 canvas {
   position: fixed;
   top: 0;
